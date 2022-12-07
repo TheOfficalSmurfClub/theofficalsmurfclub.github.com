@@ -1,0 +1,17 @@
+body {
+background-color:lightblue ;
+}
+
+.homeButton {
+    float:  right ;
+    background-color: black;
+    color: lightblue;
+    
+}
+
+.submit {
+    margin: auto;
+    border: 25px;
+    border-radius: 20px 50px;
+}
+
